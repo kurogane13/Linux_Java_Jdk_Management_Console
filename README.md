@@ -1,4 +1,4 @@
-# Linux_Java_Jdk_Management_Console
+# Linux Java Jdk Management Console
 Java jdk management console for ubuntu/debian linux systems
 
 Author: Gustavo Wydler Azuaga - 11-25-2019
