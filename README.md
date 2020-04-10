@@ -10,6 +10,7 @@ NOTE: To view sample screenshots of the program, access the Screenshots folder.
 Setup and running the program: 
 
   * Clone the repo to your computer/server /home/$USER folder (git clone)
+  * Rename Linux_Java_Jdk_Management_Console to jdk_openjdk_java_javac_installation_v2 (mv Linux_Java_Jdk_Management_Console     jdk_openjdk_java_javac_installation_v2
   * Access the /home/$USER/jdk_openjdk_java_javac_installation_v2/ directory.
   
     * To launch interactive bash console run: bash java_versions_bash_console.sh
