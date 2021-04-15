@@ -16,4 +16,7 @@ echo "JAVA VERSION SWITCHER..."
 read 
 sudo update-alternatives --config javac
 echo "................................................."
+echo "Progarm terminated, press enter to end session now..."
+read enter
+
 
